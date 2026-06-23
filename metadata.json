@@ -1,0 +1,8 @@
+{
+  "name": "Cryptograph",
+  "description": "Institutional wealth dashboard with cross-border real-world asset (RWA) tokenization and built-in compliance gatekeepers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}-
